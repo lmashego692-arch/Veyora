@@ -1,0 +1,589 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		BF7FDC1A3082CC2E00D178C2 /* APS Tracker.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF7FDC193082CC2E00D178C2 /* APS Tracker.swift */; };
+		BF7FDC1E3082D20100D178C2 /* Bursary Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF7FDC1D3082D20100D178C2 /* Bursary Page.swift */; };
+		BF7FDC203082D20E00D178C2 /* Settings Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF7FDC1F3082D20D00D178C2 /* Settings Page.swift */; };
+		BF7FDC223082D22900D178C2 /* Calendar & Deadlines Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF7FDC213082D22900D178C2 /* Calendar & Deadlines Page.swift */; };
+		BF7FDC263082D7F900D178C2 /* Home_View.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF7FDC253082D7F900D178C2 /* Home_View.swift */; };
+		BF7FDC33308379DE00D178C2 /* UniversityDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF7FDC32308379DE00D178C2 /* UniversityDetailView.swift */; };
+		BF7FDC353083A5EE00D178C2 /* UniversityModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF7FDC343083A5EE00D178C2 /* UniversityModels.swift */; };
+		BF7FDC373083A69500D178C2 /* CourseEvaluator.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF7FDC363083A69500D178C2 /* CourseEvaluator.swift */; };
+		BF7FDC393083A96800D178C2 /* south-africa-public-university-courses-2026.json in Resources */ = {isa = PBXBuildFile; fileRef = BF7FDC383083A96800D178C2 /* south-africa-public-university-courses-2026.json */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		BF7FDBB33082B6F900D178C2 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BF7FDB9A3082B6F600D178C2 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = BF7FDBA13082B6F600D178C2;
+			remoteInfo = Veyora;
+		};
+		BF7FDBBD3082B6F900D178C2 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BF7FDB9A3082B6F600D178C2 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = BF7FDBA13082B6F600D178C2;
+			remoteInfo = Veyora;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		BF7FDBA23082B6F600D178C2 /* Veyora.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Veyora.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BF7FDBB23082B6F900D178C2 /* VeyoraTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VeyoraTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		BF7FDBBC3082B6F900D178C2 /* VeyoraUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VeyoraUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		BF7FDC193082CC2E00D178C2 /* APS Tracker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "APS Tracker.swift"; sourceTree = "<group>"; };
+		BF7FDC1D3082D20100D178C2 /* Bursary Page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bursary Page.swift"; sourceTree = "<group>"; };
+		BF7FDC1F3082D20D00D178C2 /* Settings Page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Settings Page.swift"; sourceTree = "<group>"; };
+		BF7FDC213082D22900D178C2 /* Calendar & Deadlines Page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Calendar & Deadlines Page.swift"; sourceTree = "<group>"; };
+		BF7FDC253082D7F900D178C2 /* Home_View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home_View.swift; sourceTree = "<group>"; };
+		BF7FDC32308379DE00D178C2 /* UniversityDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniversityDetailView.swift; sourceTree = "<group>"; };
+		BF7FDC343083A5EE00D178C2 /* UniversityModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniversityModels.swift; sourceTree = "<group>"; };
+		BF7FDC363083A69500D178C2 /* CourseEvaluator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseEvaluator.swift; sourceTree = "<group>"; };
+		BF7FDC383083A96800D178C2 /* south-africa-public-university-courses-2026.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "south-africa-public-university-courses-2026.json"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		BF7FDBA43082B6F600D178C2 /* Veyora */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Veyora;
+			sourceTree = "<group>";
+		};
+		BF7FDBB53082B6F900D178C2 /* VeyoraTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = VeyoraTests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		BF7FDB9F3082B6F600D178C2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BF7FDBAF3082B6F900D178C2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BF7FDBB93082B6F900D178C2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		BF7FDB993082B6F600D178C2 = {
+			isa = PBXGroup;
+			children = (
+				BF7FDC343083A5EE00D178C2 /* UniversityModels.swift */,
+				BF7FDC363083A69500D178C2 /* CourseEvaluator.swift */,
+				BF7FDC32308379DE00D178C2 /* UniversityDetailView.swift */,
+				BF7FDC253082D7F900D178C2 /* Home_View.swift */,
+				BF7FDC193082CC2E00D178C2 /* APS Tracker.swift */,
+				BF7FDC1D3082D20100D178C2 /* Bursary Page.swift */,
+				BF7FDC1F3082D20D00D178C2 /* Settings Page.swift */,
+				BF7FDC213082D22900D178C2 /* Calendar & Deadlines Page.swift */,
+				BF7FDC383083A96800D178C2 /* south-africa-public-university-courses-2026.json */,
+				BF7FDBA43082B6F600D178C2 /* Veyora */,
+				BF7FDBB53082B6F900D178C2 /* VeyoraTests */,
+				BF7FDBA33082B6F600D178C2 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		BF7FDBA33082B6F600D178C2 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BF7FDBA23082B6F600D178C2 /* Veyora.app */,
+				BF7FDBB23082B6F900D178C2 /* VeyoraTests.xctest */,
+				BF7FDBBC3082B6F900D178C2 /* VeyoraUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		BF7FDBA13082B6F600D178C2 /* Veyora */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BF7FDBC63082B6F900D178C2 /* Build configuration list for PBXNativeTarget "Veyora" */;
+			buildPhases = (
+				BF7FDB9E3082B6F600D178C2 /* Sources */,
+				BF7FDB9F3082B6F600D178C2 /* Frameworks */,
+				BF7FDBA03082B6F600D178C2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				BF7FDBA43082B6F600D178C2 /* Veyora */,
+			);
+			name = Veyora;
+			packageProductDependencies = (
+			);
+			productName = Veyora;
+			productReference = BF7FDBA23082B6F600D178C2 /* Veyora.app */;
+			productType = "com.apple.product-type.application";
+		};
+		BF7FDBB13082B6F900D178C2 /* VeyoraTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BF7FDBC93082B6F900D178C2 /* Build configuration list for PBXNativeTarget "VeyoraTests" */;
+			buildPhases = (
+				BF7FDBAE3082B6F900D178C2 /* Sources */,
+				BF7FDBAF3082B6F900D178C2 /* Frameworks */,
+				BF7FDBB03082B6F900D178C2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				BF7FDBB43082B6F900D178C2 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				BF7FDBB53082B6F900D178C2 /* VeyoraTests */,
+			);
+			name = VeyoraTests;
+			packageProductDependencies = (
+			);
+			productName = VeyoraTests;
+			productReference = BF7FDBB23082B6F900D178C2 /* VeyoraTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		BF7FDBBB3082B6F900D178C2 /* VeyoraUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BF7FDBCC3082B6F900D178C2 /* Build configuration list for PBXNativeTarget "VeyoraUITests" */;
+			buildPhases = (
+				BF7FDBB83082B6F900D178C2 /* Sources */,
+				BF7FDBB93082B6F900D178C2 /* Frameworks */,
+				BF7FDBBA3082B6F900D178C2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				BF7FDBBE3082B6F900D178C2 /* PBXTargetDependency */,
+			);
+			name = VeyoraUITests;
+			packageProductDependencies = (
+			);
+			productName = VeyoraUITests;
+			productReference = BF7FDBBC3082B6F900D178C2 /* VeyoraUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BF7FDB9A3082B6F600D178C2 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					BF7FDBA13082B6F600D178C2 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					BF7FDBB13082B6F900D178C2 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = BF7FDBA13082B6F600D178C2;
+					};
+					BF7FDBBB3082B6F900D178C2 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = BF7FDBA13082B6F600D178C2;
+					};
+				};
+			};
+			buildConfigurationList = BF7FDB9D3082B6F600D178C2 /* Build configuration list for PBXProject "Veyora" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = BF7FDB993082B6F600D178C2;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = BF7FDBA33082B6F600D178C2 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BF7FDBA13082B6F600D178C2 /* Veyora */,
+				BF7FDBB13082B6F900D178C2 /* VeyoraTests */,
+				BF7FDBBB3082B6F900D178C2 /* VeyoraUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		BF7FDBA03082B6F600D178C2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BF7FDC393083A96800D178C2 /* south-africa-public-university-courses-2026.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BF7FDBB03082B6F900D178C2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BF7FDBBA3082B6F900D178C2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		BF7FDB9E3082B6F600D178C2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BF7FDC223082D22900D178C2 /* Calendar & Deadlines Page.swift in Sources */,
+				BF7FDC373083A69500D178C2 /* CourseEvaluator.swift in Sources */,
+				BF7FDC263082D7F900D178C2 /* Home_View.swift in Sources */,
+				BF7FDC353083A5EE00D178C2 /* UniversityModels.swift in Sources */,
+				BF7FDC203082D20E00D178C2 /* Settings Page.swift in Sources */,
+				BF7FDC33308379DE00D178C2 /* UniversityDetailView.swift in Sources */,
+				BF7FDC1A3082CC2E00D178C2 /* APS Tracker.swift in Sources */,
+				BF7FDC1E3082D20100D178C2 /* Bursary Page.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BF7FDBAE3082B6F900D178C2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BF7FDBB83082B6F900D178C2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		BF7FDBB43082B6F900D178C2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = BF7FDBA13082B6F600D178C2 /* Veyora */;
+			targetProxy = BF7FDBB33082B6F900D178C2 /* PBXContainerItemProxy */;
+		};
+		BF7FDBBE3082B6F900D178C2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = BF7FDBA13082B6F600D178C2 /* Veyora */;
+			targetProxy = BF7FDBBD3082B6F900D178C2 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		BF7FDBC43082B6F900D178C2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		BF7FDBC53082B6F900D178C2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		BF7FDBC73082B6F900D178C2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Veyora/Preview Content\"";
+				DEVELOPMENT_TEAM = B5RXYFKZ24;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.lesego.Veyora;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		BF7FDBC83082B6F900D178C2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Veyora/Preview Content\"";
+				DEVELOPMENT_TEAM = B5RXYFKZ24;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.lesego.Veyora;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		BF7FDBCA3082B6F900D178C2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.lesego.VeyoraTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Veyora.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Veyora";
+			};
+			name = Debug;
+		};
+		BF7FDBCB3082B6F900D178C2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.lesego.VeyoraTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Veyora.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Veyora";
+			};
+			name = Release;
+		};
+		BF7FDBCD3082B6F900D178C2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.lesego.VeyoraUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Veyora;
+			};
+			name = Debug;
+		};
+		BF7FDBCE3082B6F900D178C2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.lesego.VeyoraUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Veyora;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BF7FDB9D3082B6F600D178C2 /* Build configuration list for PBXProject "Veyora" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BF7FDBC43082B6F900D178C2 /* Debug */,
+				BF7FDBC53082B6F900D178C2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BF7FDBC63082B6F900D178C2 /* Build configuration list for PBXNativeTarget "Veyora" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BF7FDBC73082B6F900D178C2 /* Debug */,
+				BF7FDBC83082B6F900D178C2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BF7FDBC93082B6F900D178C2 /* Build configuration list for PBXNativeTarget "VeyoraTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BF7FDBCA3082B6F900D178C2 /* Debug */,
+				BF7FDBCB3082B6F900D178C2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BF7FDBCC3082B6F900D178C2 /* Build configuration list for PBXNativeTarget "VeyoraUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BF7FDBCD3082B6F900D178C2 /* Debug */,
+				BF7FDBCE3082B6F900D178C2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BF7FDB9A3082B6F600D178C2 /* Project object */;
+}
