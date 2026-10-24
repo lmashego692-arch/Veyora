@@ -1,0 +1,1688 @@
+Warning: truncated output (original token count: 240428)
+Total output lines: 16100
+
+{
+  "universities": [
+    {
+      "university": "Cape Peninsula University of Technology",
+      "faculties": [
+        {
+          "faculty": "n/a",
+          "courses": [
+            {
+              "course": "ADVANCED DIPLOMA IN ANALYTICAL CHEMISTRY",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "ADVANCED DIPLOMA IN BIOTECHNOLOGY",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "ADVANCED DIPLOMA IN HORTICULTURE",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "ADVANCED DIPLOMA IN MARINE SCIENCE",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "ADVANCED DIPLOMA IN NATURE CONSERVATION",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "BACHELOR OF ENVIRONMENTAL HEALTH",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "BACHELOR OF ENVIRONMENTAL HEALTH (ECP)",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "BACHELOR OF FOOD SCIENCE AND TECHNOLOGY",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN AGRICULTURAL MANAGEMENT",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN AGRICULTURAL MANAGEMENT (ECP)",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN AGRICULTURE",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN AGRICULTURE (ECP)",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN ANALYTICAL CHEMISTRY",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN ANALYTICAL CHEMISTRY (ECP)",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN BIOTECHNOLOGY",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN BIOTECHNOLOGY (ECP)",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN ENVIRONMENTAL MANAGEMENT",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN ENVIRONMENTAL MANAGEMENT- ECP",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN HORTICULTURE",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN HORTICULTURE (ECP)",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN LANDSCAPE ARCHITECTURE",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN LANDSCAPE ARCHITECTURE (ECP)",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN MARINE SCIENCE",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN MARINE SCIENCE (ECP)",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN MATHEMATICAL SCIENCES",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN MATHEMATICAL SCIENCES (ECP)",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN NATURE CONSERVATION",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN NATURE CONSERVATION (ECP)",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma, etc.). For further information, see",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            }
+          ]
+        },
+        {
+          "faculty": "Faculty of Applied Sciences",
+          "courses": [
+            {
+              "course": "BACHELOR IN ENVIRONMENTAL HEALTH",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Environmental Health",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "30 with Maths; Maths 32 with Maths; Maths",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "BACHELOR OF FOOD SCIENCE & TECHNOLOGY",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Food Science & Technology",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "N/A 32 with Maths; Maths APS of 4)",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "26 with Maths; Maths 28 with Maths; Maths or Accounting Economics (4);",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Agricultural Management",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "28 with Maths; Maths; 30 with Maths 30 with Maths; Maths; 32 with Maths 4 3 4 5 4 4 Life Sciences or Physical Sciences",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN AGRICULTURAL MANAGEMENT Agriculturalists are involved in the management",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN AGRICULTURE",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN ANALYTICAL CHEMISTRY Chemistry is a “central science” which involves",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Biotechnology",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "28 with Maths; Maths 30 with Maths; Maths 4 4 5 4 4 45% or above in Maths or Physical Sciences or Life Sciences if the 26 with Maths;",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "n/a",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Consumer Science: Food",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "26 with Maths; Maths 28 with Maths; Maths 4 3 4 4 45% or above in Maths or Physical Sciences",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN CONSUMER SCIENCE: FOOD & NUTRITION",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "DEPARTMENT QUALIFICATION MINIMUM APS SCORE METHOD ENGLISH",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Environmental Management",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "26 with Maths; Maths; 28 with Maths 28 with Maths; Maths; 30 with Maths Mathematics, 60% (5) for Maths Literacy and Maths; 50% (4) for",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN ENVIRONMENTAL MANAGEMENT Graduates manage environmental issues",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Horticulture",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "28 with Maths; Maths; 30 with Maths 30 with Maths; Maths; 32 with Maths",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "n/a",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Landscape Architecture",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "28 with Maths; Maths; 30 with Maths 30 with Maths; Maths; 32 with Maths",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN LANDSCAPE ARCHITECTURE Landscape technicians apply their knowledge",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN MARINE SCIENCE Marine scientists are involved in research and management",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN MATHEMATICAL SCIENCES Graduates apply a broad range of advanced",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "n/a",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            }
+          ]
+        },
+        {
+          "faculty": "Faculty of Business & Management Sciences",
+          "courses": [
+            {
+              "course": "BACHELOR OF BUSINESS INFORMATICS",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "DEPARTMENT QUALIFICATION APS",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Business Informatics 25 (M)",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "i) English (official language at first additional language level, 20 credits) at NQF level 4; ii) Mathematics (20 credits) at NQF level 4; iii) Mathematical Literacy (20 credits);",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Accountancy",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "Diploma in Entrepreneurship 26 1 4 2 4 Including one of the following at level 4 (50%) Business Studies, Economics, Accounting and Consumer Studies. Applicants with Technical Maths at level 5 (60%) would be considered.",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN ACCOUNTANCY",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "potential to start their own Accounting practice",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Accountancy (Extended): English (4) and one of the following: Maths(3), Maths",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "Diploma in Accountancy (Extended): English (4) and one of the following: Maths(3), Maths For each of the subjects Maths (excl. Maths Lit) and Accounting, the actual achievement is Diploma in Entrepreneurship 26 1 4 2 4 Including one of the following at level 4 (50%) Business Studies, Economics, Accounting and Consumer Studies. Applicants with Technical Maths at level 5 (60%) would be considered.",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Banking 24 (M)",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "i) English (official language at first additional language level, 20 credits) at NQF level 4;",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "n/a",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Business &",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Business & Information Administration (Foundation)",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN BUSINESS & INFORMATION ADMINISTRATION Organisations cannot cope without people who",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Entrepreneurship",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "n/a",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "Diploma in Entrepreneurship 26 1 4 2 4 Including one of the following at level 4 (50%) Business Studies, Economics, Accounting and Consumer Studies. Applicants with Technical Maths at level 5 (60%) would be considered.",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "n/a",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "n/a",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Events Management 28 (M)",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Hospitality and Food & Beverage Management",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "ECONOMICS",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN HOSPITALITY AND FOOD & BEVERAGE MANAGEMENT Food and beverage managers oversee",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Hospitality and Hotel",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN HOSPITALITY AND HOTEL MANAGEMENT Hospitality managers ensure the smooth running",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Hospitality Management & Professional Cookery",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "ECONOMICS Bachelor of Paralegal Studies 30 1 4 3 4 Including one official language at level 4 (Excluding English).",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN HOSPITALITY MANAGEMENT AND PROFESSIONAL COOKERY",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN HUMAN RESOURCE MANAGEMENT From recruiting employees to providing training or",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Human Resources Management",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Human Resources Management (Extended)",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN MANAGEMENT",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "From managing sport teams to fitness centres, sport, fitness and wellness industry.",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Management (Extended)",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Management 28 (M)",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Operations",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN OPERATIONS MANAGEMENT Explore the strategic management of an organisation’s",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Public Administration",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "n/a",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Real Estate",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "Bachelor of Paralegal Studies 30 1 4 3 4 Including one official language at level 4 (Excluding English). Business Studies; Economics; Accounting; English; Afrikaans; IsiXhosa; Mathematics; Mathematical Literacy; Physics; Chemistry; Life Sciences; Computer Application Economic & Management Sciences or Economic & Management Sciences (Accounting);",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "n/a",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Retail Business",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN RETAIL BUSINESS MANAGEMENT The variety of retail and wholesale business is",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Sport and Leisure",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN SPORT AND LEISURE MANAGEMENT From managing sport teams to fitness centres",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "From managing sport teams to fitness centres, sport, fitness and wellness industry.",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Tourism Management 28 (M)",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN TOURISM MANAGEMENT A career in tourism allows for great diversity as well as",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            }
+          ]
+        },
+        {
+          "faculty": "Faculty of Education",
+          "courses": [
+            {
+              "course": "BACHELOR IN EDUCATION: FOUNDATION",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "Selection will be based on",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "BACHELOR IN EDUCATION: INTERMEDIATE",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "Selection will be based on",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "BACHELOR IN EDUCATION: SENIOR PHASE",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "Mathematics; Accounting;",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "BEd SENIOR PHASE AND FURTHER EDUCATION & TRAINING",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "Business Studies; Economics; Accounting; English; Afrikaans; IsiXhosa; Mathematics; Mathematical Literacy; Physics; Chemistry; Life Sciences; Computer Application Economic & Management Sciences or Economic & Management Sciences (Accounting); English; Afrikaans; isiXhosa; Mathematics; Mathematical Literacy; Natural Sciences;",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN EARLY CHILDHOOD DEVELOPMENT CARE AND EDUCATION",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN GRADE R TEACHING",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            }
+          ]
+        },
+        {
+          "faculty": "Faculty of Engineering",
+          "courses": [
+            {
+              "course": "n/a",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "& Extended; HC in Emergency Medical Care; Diploma in Emergency Medical Care; Bachelor of Emergency Medical Care & Extended; BHSc in Medical Lab Science & Extended; BHSc in",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "n/a",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "Diploma in Emergency Medical Care; Bachelor of Emergency Medical Care & Extended; BHSc in Medical Lab Science & Extended; BHSc in",
+                "otherRequirements": "n/a"
+              }
+            }
+          ]
+        },
+        {
+          "faculty": "Faculty of Engineering & The Built Environment",
+          "courses": [
+            {
+              "course": "BACHELOR OF ENGINEERING TECHNOLOGY IN CHEMICAL ENGINEERING",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Engineering Technology in Civil Engineering",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "BACHELOR OF ENGINEERING TECHNOLOGY IN CIVIL ENGINEERING Civil Engineers maintain and adapt the",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "BACHELOR OF ENGINEERING TECHNOLOGY IN COMPUTER ENGINEERING",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "BACHELOR OF ENGINEERING TECHNOLOGY IN ELECTRICAL ENGINEERING",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "BACHELOR OF GEOMATICS (SPECIALISING IN SURVEYING OR GEOGRAPHIC INFORMATION",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Geomatics CLOTHING & TEXTILE",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "4 3 5 4 -- -- Online selection",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Marine Engineering",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "Medical at SAMSA Medical",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Marine Engineering ECP",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "Subject to the space availability, consideration will be given for admitting students to the ECP programmes with: English (4); with one of either Mathematics, Physical Science (4), and the other (3), with a minimum of 45%, or Technical Maths/ Technical Science (5) and the other (4) with a minimum of 55% for the following programmes only: Diploma in Chemical option for admission, selection and placement will be given. Pre-2008 Matriculants must contact the faculty office for information.",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "BACHELOR OF MARINE ENGINEERING Graduates from this programme have combined",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "M (Maths)",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "BACHELOR OF NAUTICAL SCIENCE Maritime Studies",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN CHEMICAL ENGINEERING",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN CIVIL ENGINEERING",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Clothing & Textile Technology",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "4 3 5 4 -- -- Online selection",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN CLOTHING AND TEXTILE TECHNOLOGY",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Construction 25 23 – 24 Use NSC rating",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN CONSTRUCTION From managing the construction of new roadways to stadiums, our graduates with a",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN ENGINEERING TECHNOLOGY IN COMPUTER ENGINEERING",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN ENGINEERING TECHNOLOGY IN ELECTRICAL ENGINEERING",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN GEOMATICS",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN INDUSTRIAL ENGINEERING Industrial Engineers optimise complex processes",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "economics. Their main task is to ensure that the",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Mechanical Engineering",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Mechanical Engineering (Mechatronics)",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN MECHANICAL ENGINEERING Graduates use mechanical engineering techniques",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "DIPLOMA IN MECHANICAL ENGINEERING IN MECHATRONICS From designing machines that bottle cool drinks",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma: Engineering: Industrial",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            }
+          ]
+        },
+        {
+          "faculty": "Faculty of Health & Wellness Sciences",
+          "courses": [
+            {
+              "course": "Bachelor of Emergency Medical Care 35+ 4 4 4 4",
+              "minimumRequirements": {
+              …220428 tokens truncated…to higher English results. SELECTION IS MADE SUBJECT TO THE AVAILABILITY OF PLACES, ACADEMIC RESULTS AND OTHER ENTRY REQUIREMENTS WHERE APPLICABLE. SELECTION IS MADE SUBJECT TO THE AVAILABILITY OF PLACES, ACADEMIC RESULTS AND OTHER ENTRY REQUIREMENTS WHERE APPLICABLE.",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Speech-Language",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "write the NBT. Please refer to on the NBT. An APS of 30-33 points may be Preference is given to higher English results. An APS of 30-33 points may be",
+                "otherRequirements": "n/a"
+              }
+            }
+          ]
+        },
+        {
+          "faculty": "School of Law",
+          "courses": [
+            {
+              "course": "Bachelor of Commerce (BCom) in the field of: Law",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "Applicants with an APS of 35- 42, as well as English Level 6 AND Mathematics Level 6, will matric APS",
+                "otherRequirements": "n/a"
+              }
+            }
+          ]
+        },
+        {
+          "faculty": "School of Mechanical, Industrial and Aeronautical Engineering",
+          "courses": [
+            {
+              "course": "Bachelor of Science in Engineering in Aeronautical",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "English, Mathematics and Physical Sciences stand English, Mathematics and Physical Sciences stand",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Science in Engineering in Industrial",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "English, Mathematics and Physical Sciences stand Acceptance depends on departmental selection. Applicants applicants with a Wits APS of 29-33 may be accepted on the basis of exceptional scores. The BAS selection process",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Science in Engineering in Mechanical",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "English, Mathematics and Physical Sciences stand Acceptance depends on departmental selection. Applicants applicants with a Wits APS of 29-33 may be accepted on the basis of exceptional scores. The BAS selection process",
+                "otherRequirements": "n/a"
+              }
+            }
+          ]
+        },
+        {
+          "faculty": "School of Mining Engineering",
+          "courses": [
+            {
+              "course": "Bachelor of Science in Engineering in Mining",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "English, Mathematics and Physical Sciences stand Acceptance depends on departmental selection. Applicants applicants with a Wits APS of 29-33 may be accepted on the basis of exceptional scores. The BAS selection process by the Assistant Dean. Selection is based predominantly on performance in the selection exercise, interview and",
+                "otherRequirements": "n/a"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "university": "Walter Sisulu University",
+      "faculties": [
+        {
+          "faculty": "Faculty of Economic & Financial Sciences",
+          "courses": [
+            {
+              "course": "Bachelor of Accounting Sciences W63009",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "Bachelor of Accounting Sciences • 5 (60-69%) for English as a Home Language or First Additional • 4 (50-59%) for Mathematics that serves as a solid foundation for pursuing further studies in the field of accounting, specifically the Chartered Accountant (CA) route. Graduates will be well-prepared to enter a CTA (Certificate in the Theory of Accounting) them within the second tier of the proposed four-tier accounting structure in Southern Africa. 25 • 4 (50-59%) for English as a Home Language or First Additional",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Accounting W63008",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "Bachelor of Accounting • 4 (50-59%) for English as a Home Language or First Additional • 4 (50-59%) for Mathematics Bachelor of Accounting Sciences",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Commerce in Business Management W63011",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 4 (50-59%) for English as a Home Language or First Additional • 3 (40-49%) for Mathematics or 5 (60 - 69%) for Mathematics Economics",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Commerce in Economics W63012",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "Economics • 4 (50-59%) for English as a Home Language or First Additional • 3 (40-49%) for Mathematics or 6 (70 - 79%) for Mathematics micro- and macro-economic procedures within the field of economics. By equipping students with this",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Commerce W63010",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "25 • 4 (50-59%) for English as a Home Language or First Additional • 3 (40-49%) for Mathematics or 5 (60 - 69%) for Mathematics • 4 (50-59%) for English as a Home Language or First Additional • 3 (40-49%) for Mathematics or 5 (60 - 69%) for Mathematics",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Accountancy W63001",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "21 • 3 (40-49%) for English as a Home Language or First Additional • 3 (40-49%) for Mathematics; and management accounting responsibilities within a finance team or independently. It serves as a solid foundation for pursuing further studies in accounting disciplines, such as the Accounting T echnician qualification perform various accounting functions and are prepared to advance their careers in the accounting field.",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Financial Information Systems W63002",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 3 (40-49%) for English as a Home Language or First Additional • 3 (40-49%) for Mathematics; financial and information system activities, encompassing areas such as accounting, taxation, auditing, and management accounting. Graduates will possess the skills to work effectively in a finance team and various accounting professions, including Accounting T echnicians, Chartered Managemen t Accountants, and",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Internal Auditing W63004 & W63005",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 3 (40-49%) for English as a Home Language or First Additional • 3 (40-49%) for Mathematics or Accounting, or 5 (60-69%) for Mathematics Literacy • 3 (40-49%) for English as a Home Language or First Additional • 3 (40-49%) for Mathematics or Accounting, or 4 (50-59%) for Mathematics Literacy",
+                "otherRequirements": "n/a"
+              }
+            }
+          ]
+        },
+        {
+          "faculty": "Faculty of Education",
+          "courses": [
+            {
+              "course": "Bachelor of Education in Foundation Phase T eaching W62006",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 4 (50-59%) for English as a First Additional Language • 2 (30-39%) for Mathematics or 4 (50-59%) for Mathematics Literacy",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Education in Senior",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "Phase & FET T eaching (Maths, 24 • 4 (50-59%) for English as a Home Language or as a First Additional Language • 4 (50-59%) for Mathematics",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Education in Senior Phase & FET T eaching (Consumer & Management",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 4 (50-59%) for English as a Home Language or as a First Additional Language",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Education in Senior Phase & FET T eaching (Creative",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "Arts English) 24 • 5 (60-69%) for English as a Home Language or as a First Additional Language",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Education in Senior Phase & FET T eaching (Creative Arts History)",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "Arts History) 24 • 4 (50-59%) for English as a Home Language or as a First Additional Language • 4 (50-59%) for History",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Education in Senior Phase & FET T eaching (Economic & Management Science)",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "24 • 4 (50-59%) for English as a Home Language or as a First Additional Language • 2 (30-39%) for Mathematics or 4 (50-59%) for Mathematics Literacy • Accounting • Business Studies • Economics",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Education in Senior Phase & FET T eaching (Humanities)",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "24 • 4 (50-59%) for English as a Home Language or as a First Additional Language • 4 (50-59%) for History • 4 (50-59%) Geography",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Education in Senior Phase & FET T eaching (Languages)",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "24 • 5 (60-69%) for English as a Home Language or as a First Additional Language Phase & FET T eaching (Maths,",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Education in Senior Phase & FET T eaching (T echnical and Vocational)",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "24 • 4 (50-59%) for English as a Home Language or as a First Additional Language • Mathematics • Physical Sciences",
+                "otherRequirements": "n/a"
+              }
+            }
+          ]
+        },
+        {
+          "faculty": "Faculty of Engineering, Built Environment & Information",
+          "courses": [
+            {
+              "course": "n/a",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Administration W61029",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "25 • 4 (50-59%) for English as a Home Language or First Additional Language; The faculty of Medicine and Health Sciences is located at the Mthatha Campus. The new medical school faculty and administrative",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Arts (ENGLISH) W66029",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "Bachelor of Arts (ENGLISH) 25 An achievement in English 5 (50-59%) and any other subject as follows: 4 (50-59%) for Sesotho 4 (50-59%) for Geography 4 (50-59%) for History",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Arts W66004",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 4 (50-59%) for English as a Home Language or First Additional Language • 4 (50-59%) for Sesotho • 4 (50-59%) for Geography • 4 (50-59%) for History",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Laws W66021",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "26 • 5 (60-69%) for English as a Home Language or First Additional Language • 3 (40-49%) for Mathematics or 4 (50-59%) for Mathematical Literacy • 4 (50-59%) for English as a Home Language or as a First Additional Language",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Psychology W66022",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 4 (50-59%) for English as a Home Language or as a First Additional Language",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Social Sciences W66005 &",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 4 (50-59) for English as a Home Language or as a First Additional Language • 3 (40-49) for English as a Home Language or as a First Additional Language",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Social Work W66023",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 4 (50-59%) for English as a Home Language or as a First Additional Language • 4 (50-59%) for Life Sciences",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Administrative Management W61002",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "21 • 4 (50-59%) for English as a Home Language or First Additional Language. • 2 (30-39%) for Mathematics or 4 (50-59%) for Mathematics literacy 21 • 4 (50-59%) for English as a Home Language or First Additional Language. • 3 (40-49%) for Mathematics or 4 (50-59%) for Mathematics literacy",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Building T echnology W60001 & W60002",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 4 (50-59%) for English as a Home Language or First Additional Language level or better . • 4 (50-59%) for Mathematics or 5 (60-69%) for T echnical Mathematics • 3 (40-49%) for Physical Science or 4 (50-59%) for T echnical Science",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Civil Engineering W60003 & W60004",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 4 (50-59%) for English as a Home Language or First Additional Language. • 4 (50-59%) for Mathematics • 4 (50-59%) for Physical Sciences.",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Electrical Engineering W60005 & W60006",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 4 (50-59%) for English as a Home Language or First Additional Language. • 4 (50-59%) for Mathematics. • 4 (50-59%) for Physical Sciences. level below the required levels as mentioned above), i.e. in ONE of the three subjects (Mathematics, Physical Science, or English as a Home Language or First Additional Language)",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Fashion W66001",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 4 (50-59) for English as a Home Language or as a First Additional Language • 2 (30-39) for Mathematics or 3 (40-49) for Mathematics Literacy or 2 (30-39)for Accountancy opportunity to design and make garments. The student’s portfolio of work will 19 • 3 (40-49) for English as a Home Language or as a First Additional Language",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Fine Art W66002",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "19 • 3 (40-49) for English as a Home Language or as a First Additional Language In exceptional cases, an excellent portfolio of artworks and the passing of an internal assessment/interview may enable talented artists to enter with an NSC rating of 2 in English.",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Hospitality Management W61003",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "21 • 4 (50-59%) for English as a Home Language or First Additional Language. • 3 (40-49%) for Mathematics or 4 (50-59%) for Mathematics literacy • 3 (40-49%) for English as a Home Language or First Additional Language.",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Human Resources Management W61004 & W61005",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 3 (40-49%) for English as a Home Language or First Additional Language. • 3 (40-49%) for Mathematics or 4 (50-59%) for Mathematics literacy • 3 (40-49%) for English as a Home Language or First Additional Language; • 2 (30-39%) for Mathematics or 3 (40-49%) for Mathematics literacy",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Information and Communications T echnology in Applications Development",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "22 (with Mathematics) or 24 (with Mathematics Literacy) 18 (with Mathematics) or 20 (with Mathematics Literacy) • 4 (50-59%) for English as a Home Language or First Additional Language. • 3 (40-49%) for Mathematics or 5 (60 – 69%) for Mathematics Literacy.",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Information and Communications T echnology in Business Analysis",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "22 (with Mathematics) or 24 (with Mathematics Literacy) 18 (with Mathematics) or 20 (with Mathematics Literacy) • 4 (50-59%) for English as a Home Language or First Additional Language. • 3 (40-49%) for Mathematics or 5 (60 – 69%) for Mathematics Literacy. below the required levels as mentioned above, i.e. in ONE of the two subjects (Mathematics /Mathematics Literacy, or English as a Home Language or First Additional Language) mentioned",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Information and Communications T echnology in Communication Networks",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "22 (with Mathematics) or 24 (with Mathematics Literacy) 18 (with Mathematics) or 20 (with Mathematics Literacy) • 4 (50-59%) for English as a Home Language or First Additional Language. • 3 (40-49%) for Mathematics or 5 (60 – 69%) for Mathematics Literacy. below the required levels as mentioned above, i.e. in ONE of the two subjects (Mathematics /Mathematics Literacy, or English as a Home Language or First Additional Language) mentioned",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Information and Communications T echnology in Support Services",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "22 (with Mathematics) or 24 (with Mathematics Literacy) 18 (with Mathematics) or 20 (with Mathematics Literacy) • 4 (50-59%) for English as a Home Language or First Additional Language. • 3 (40-49%) for Mathematics or 5 (60 – 69%) for Mathematics Literacy. below the required levels as mentioned above, i.e. in ONE of the two subjects (Mathematics /Mathematics Literacy, or English as a Home Language or First Additional Language) mentioned",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Journalism W61006",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 5 (60-69%) for English as a Home Language or First Additional Language",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Local Government Finance W61007 & W61008",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 3 (40-49%) for English as a Home Language or First Additional Language. • 3 (40-49%) for Accounting or • 3 (40-49%) for Mathematics or 4 (50-59%) for Mathematics literacy • 3 (40-49%) for English as a Home Language or First Additional Language.",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Management W61009 & W61010",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 3 (40-49%) for English as a Home Language or First Additional Language; • 3 (40-49%) for Accounting; • 3 (40-49%) for Mathematics or 4 (50-59%) for Mathematics literacy • 3 (40-49%) for English as a Home Language or First Additional Language; • 2 (30-39%) for Accounting; • 2 (30-39%) for Mathematics or 3 (40 - 49%) for Mathematics literacy",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Marketing Management W61011",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "21 • 3 (40-49%) for English as a Home Language or First Additional Language; • 3 (40-49%) for Mathematics or 4 (50-59%) for Mathematics literacy;",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Mechanical Engineering W60007 & W60008",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 4 (50-59%) for English as a Home Language or First Additional Language. • 4 (50-59%) for Mathematics or 4 (50-59%) for T echnical Mathematics • 4 (50-59%) for Physical Science, or 4 (50-59%) for T echnical Science level below the required levels as mentioned above), i.e. in ONE of the three subjects (Mathematics or T echnical Mathematics; Physical Science or T echnical Science; English as a Home Language or",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Office Management and Technology W61013 & W61014",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 4 (50-59%) for English as a Home Language or First Additional Language; • 3 (40-49%) for Mathematics or 4 (50-59%) for Mathematics literacy; • 3 (40-49%) for English as a Home Language or First Additional Language; • 2 (30-39) for Mathematics or 3 (40 - 49%) for Mathematics literacy;",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Policing W61012",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "21 • 3 (40-49%) for English as a Home Language or First Additional Language; • 4 (50-59%) for English as a Home Language or First Additional Language;",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Public Management W61015",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "21 • 3 (40-49%) for English as a Home Language or First Additional Language;",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Public Relations Management W61016 & W61017",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 5 (60-69%) for English as a Home Language or First Additional Language • 4 (50-59%) for English as a Home Language or First Additional Language",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Small Business Management W61018",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "21 • 3 (40-49%) for English as a Home Language or First Additional Language; • 3 (40-49%) for Mathematics or 3 (40- 49%) for Accounting, or 4 (50 -59%) for Mathematic Literacy; 21 • 3 (40-49%) for English as a Home Language or First Additional Language;",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Sport Management W61019",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "21 • 3 (40-49%) for English as a Home Language or First Additional Language; fitness and health, coaching, teaching and retailing sectors of the sports 21 • 4 (50-59%) for English as a Home Language or First Additional Language; • 3 (40-49%) for Mathematics or 4 (50 -59%) for Mathematic Literacy;",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Tourism Management W61020",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "21 • 4 (50-59%) for English as a Home Language or First Additional Language; • 3 (40-49%) for Mathematics or 4 (50 -59%) for Mathematic Literacy; 25 • 4 (50-59%) for English as a Home Language or First Additional Language;",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Higher Certificate in Versatile Broadcasting W61001",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "18 • 4 (50-59%) for English as a Home Language or First Additional Language. 21 • 4 (50-59%) for English as a Home Language or First Additional Language. • 2 (30-39%) for Mathematics or 4 (50-59%) for Mathematics literacy",
+                "otherRequirements": "n/a"
+              }
+            }
+          ]
+        },
+        {
+          "faculty": "Faculty of Engineering, Built Environment & Information Technology",
+          "courses": [
+            {
+              "course": "n/a",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "n/a",
+                "otherRequirements": "n/a"
+              }
+            }
+          ]
+        },
+        {
+          "faculty": "Faculty of Medicine & Health Sciences",
+          "courses": [
+            {
+              "course": "Bachelor of Health Sciences in Medical Orthotics and Prosthetics",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "in Medical Orthotics and 24 • 4 (50-59%) for English as a Home Language or as a First Additional Language • 4 (50-59%) for Mathematics • 4 (50-59%) for Physical Science (Additional selection criteria will apply when final selections are made, please refer to faculty prospectus for further details) Medical Prosthetics is a profession that deals",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Medical Sciences W65001",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "Bachelor of Medical 24 • 4 (50-59%) for English as a Home Language or as a First Additional Language • 4 (50-59%) for Mathematics • 4 (50-59%) for Physical Science (Additional selection criteria will apply when final selections are made, please refer to faculty prospectus for further details) and skills in general pre-medical or basic sciences. The program's first year is common with the non-medical sciences offered by",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Medicine and",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "30 • 5 (60-69%) for English as a Home Language or as a First Additional Language • 5 (60-69%) for Mathematics • 5 (60-69%) for Physical Science (Additional selection criteria will apply when final selections are made, please refer to faculty prospectus for further details) This innovative medical programme has been followed at the",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Medicine in Clinical Practice W65002",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "24 • 4 (50-59%) for English as a Home Language or as a First Additional Language • 4 (50-59%) for Mathematics • 4 (50-59%) for Physical Science (Additional selection criteria will apply when final selections are made, please refer to faculty prospectus for further details)",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Nursing W65004",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "24 • 4 (50-59%) for English as a Home Language or as a First Additional Language • 4 (50-59%) for Mathematics • 4 (50-59%) for Physical Science (Additional selection criteria will apply when final selections are made, please refer to faculty prospectus for further details)",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Surgery W65005",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "30 • 5 (60-69%) for English as a Home Language or as a First Additional Language • 5 (60-69%) for Mathematics • 5 (60-69%) for Physical Science (Additional selection criteria will apply when final selections are made, please refer to faculty prospectus for further details) This innovative medical programme has been followed at the",
+                "otherRequirements": "n/a"
+              }
+            }
+          ]
+        },
+        {
+          "faculty": "Faculty of Natural Sciences",
+          "courses": [
+            {
+              "course": "Bachelor of Science in",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "Applied Mathematics • 4 (50-59%) for English as a Home Language or as a First Additional Language • 5 (60-69%) for Mathematics • 4 (50-59%) for Physical Sciences • 4 (50-59%) for English as a Home Language or as a First Additional Language • 4 (50-59%) for Mathematics • 3 (40-49%) for Physical Sciences",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Science in Applied Statistical Science W64009 W64010",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 4 (50-59%) for English as a Home Language or as a First Additional Language • 5 (60-69%) for Mathematics • 4 (50-59%) for Physical Sciences • 4 (50-59%) for English as a Home Language or as a First Additional Language • 4 (50-59%) for Mathematics • 3 (40-49%) for Physical Sciences The programme provides statistical knowledge in Applied Mathematics, Computer Science,",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Science in Biological Sciences W64011 W64012",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 4 (50-59%) for English as a Home Language or as a First Additional Language • 5 (60-69%) for Mathematics • 5 (60-69%) for Physical Sciences • 5 (60-69%) for Life Sciences • 4 (50-59%) for English as a Home Language or as a First Additional Language",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Science in Chemistry W64013 W64014",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 4 (50-59%) for English as a Home Language or as a First Additional Language • 5 (60-69%) for Mathematics • 5 (60-69%) for Physical Sciences • 4 (50-59%) for English as a Home Language or as a First Additional Language • 4 (50-59%) for Mathematics • 4 (50-59%) for Physical Sciences",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Science in Computer Science W64015 W64016",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 4 (50-59%) for English as a Home Language or as a First Additional Language • 5 (60-69%) for Mathematics • 4 (50-59%) for Physical Sciences • 4 (50-59%) for English as a Home Language or as a First Additional Language • 4 (50-59%) for Mathematics • 3 (40-49%) for Physical Sciences",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Science in Environmental Studies W64017 W64018",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 4 (50-59%) for English as a Home Language or as a First Additional Language • 4 (50-59%) for Mathematics • 4 (50-59%) for Physical Sciences • 4 (50-59%) for Life Sciences or Agriculture or Tourism • Mathematics • Physical Sciences • Life Sciences",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Science in Pest Management W64021 W64022",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 4 (50-59%) for English as a Home Language or as a First Additional Language • 4 (50-59%) for Mathematics • 4 (50-59%) for Physical Sciences • 4 (50-59%) for Life Sciences • 4 (50-59%) for English as a Home Language or as a First Additional Language",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Bachelor of Science in Physics W64023 W64024",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 4 (50-59%) for English as a Home Language or as a First Additional Language • 5 (60-69%) for Mathematics • 5 (60-69%) for Physical Sciences • 4 (50-59%) for English as a Home Language or as a First Additional Language • 4 (50-59%) for Mathematics • 4 (50-59%) for Physical Sciences",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Analytical Chemistry W64001 & W64002",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 4 (50-59%) for English as a Home Language or as a First Additional Language • 3 (40-49%) for Mathematics • 4 (50-59%) for Physical Sciences",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Consumer Sciences and Food Nutrition W64004 & W64039",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 4 (50-59%) for English as a Home Language or as a First Additional Language • 3 (40-49%) for Mathematics • 4 (40-49%) for Physical Sciences • 4 (50-59%) for English as a Home Language or as a First Additional Language • 3 (40-49%) for Mathematics",
+                "otherRequirements": "n/a"
+              }
+            },
+            {
+              "course": "Diploma in Pest Management W64005",
+              "minimumRequirements": {
+                "admissionScore": "n/a",
+                "subjectRequirements": "• 4 (50-59%) for English as a Home Language or as a First Additional Language • 3 (40-49%) for Mathematics • 3 (40-49%) for Life Sciences • 3 (30-39%) for Physical Sciences Applied Mathematics",
+                "otherRequirements": "n/a"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
