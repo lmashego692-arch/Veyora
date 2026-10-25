@@ -40,6 +40,7 @@ struct Home_View: View {
     @State private var showUniCalculatorSheet = false
     @State private var showNBTCalculatorSheet = false
     @State private var showNBTCalendarSheet = false
+    @State private var showNSFASSheet = false
     
     var body: some View {
         NavigationStack {
@@ -142,7 +143,36 @@ struct Home_View: View {
                             .buttonStyle(.plain)
                             .padding(.horizontal)
                             
-                            // 2. NBT Score Calculator & Proficiency Button
+                            // 2. NSFAS Guide & Appeals Button
+                            Button(action: { showNSFASSheet = true }) {
+                                HStack(spacing: 14) {
+                                    Image(systemName: "banknote.fill")
+                                        .font(.title2)
+                                        .foregroundStyle(.white)
+                                        .frame(width: 44, height: 44)
+                                        .background(Color.green.opacity(0.3))
+                                        .cornerRadius(12)
+                                    
+                                    VStack(alignment: .leading, spacing: 2) {
+                                        Text("NSFAS Guide & Appeals")
+                                            .font(.headline)
+                                            .foregroundStyle(.white)
+                                        Text("Check eligibility, document checklists & 30-day appeal rules")
+                                            .font(.caption)
+                                            .foregroundStyle(.white.opacity(0.7))
+                                    }
+                                    Spacer()
+                                    Image(systemName: "chevron.right")
+                                        .foregroundStyle(.white.opacity(0.7))
+                                }
+                                .padding(14)
+                                .background(Color.white.opacity(0.08))
+                                .cornerRadius(16)
+                            }
+                            .buttonStyle(.plain)
+                            .padding(.horizontal)
+                            
+                            // 3. NBT Score Calculator & Proficiency Button
                             Button(action: { showNBTCalculatorSheet = true }) {
                                 HStack(spacing: 14) {
                                     Image(systemName: "chart.bar.doc.horizontal.fill")
@@ -171,7 +201,7 @@ struct Home_View: View {
                             .buttonStyle(.plain)
                             .padding(.horizontal)
                             
-                            // 3. NBT Calendar & Schedule Button
+                            // 4. NBT Calendar & Schedule Button
                             Button(action: { showNBTCalendarSheet = true }) {
                                 HStack(spacing: 14) {
                                     Image(systemName: "calendar.badge.clock")
@@ -208,6 +238,9 @@ struct Home_View: View {
             .preferredColorScheme(.dark)
             .sheet(isPresented: $showUniCalculatorSheet) {
                 UniCalculationsSheetView(subjects: loadSubjects())
+            }
+            .sheet(isPresented: $showNSFASSheet) {
+                NSFASGuidanceSheetView()
             }
             .sheet(isPresented: $showNBTCalculatorSheet) {
                 NBTCalculatorSheetView()
@@ -757,6 +790,156 @@ struct NBTCalendarSheetView: View {
             }
             .background(Color.black.ignoresSafeArea())
             .navigationTitle("NBT Calendar & Schedule")
+            .navigationBarTitleDisplayMode(.inline)
+            .toolbar {
+                ToolbarItem(placement: .confirmationAction) {
+                    Button("Done") { dismiss() }
+                }
+            }
+        }
+        .preferredColorScheme(.dark)
+    }
+}
+
+// MARK: - NSFAS Guidance Sheet Component
+
+struct NSFASGuidanceSheetView: View {
+    @Environment(\.dismiss) var dismiss
+    @State private var householdIncome: Double = 250000
+    @State private var isSASSA = false
+    @State private var hasDisability = false
+    
+    var calculatedFundingStatus: String {
+        if isSASSA {
+            return "Guaranteed NSFAS Bursary (SASSA Recipient)"
+        }
+        let threshold = hasDisability ? 600000.0 : 350000.0
+        if householdIncome <= threshold {
+            return "Qualifies for Full NSFAS Bursary"
+        } else if householdIncome <= 600000 {
+            return "Qualifies for NSFAS Missing-Middle Loan"
+        } else {
+            return "Exceeds NSFAS Threshold"
+        }
+    }
+    
+    var body: some View {
+        NavigationStack {
+            ScrollView {
+                VStack(alignment: .leading, spacing: 18) {
+                    // Header Banner
+                    VStack(alignment: .leading, spacing: 6) {
+                        Text("NSFAS Financial Aid Guide")
+                            .font(.title2)
+                            .fontWeight(.bold)
+                            .foregroundStyle(.white)
+                        Text("Everything you need to know about qualifying, applying, and appealing for funding.")
+                            .font(.caption)
+                            .foregroundStyle(.gray)
+                    }
+                    
+                    // Quick Eligibility Simulator
+                    VStack(alignment: .leading, spacing: 10) {
+                        Text("Quick Eligibility Checker")
+                            .font(.headline)
+                            .foregroundStyle(.green)
+                        
+                        VStack(alignment: .leading, spacing: 4) {
+                            Text("Annual Household Income: R\(Int(householdIncome).formatted())")
+                                .font(.subheadline)
+                                .foregroundStyle(.white)
+                            Slider(value: $householdIncome, in: 0...700000, step: 10000)
+                                .tint(.green)
+                        }
+                        
+                        Toggle("SASSA Grant Recipient", isOn: $isSASSA)
+                            .font(.caption)
+                            .foregroundStyle(.gray)
+                        
+                        Toggle("Applicant with Disability (Higher R600k Cap)", isOn: $hasDisability)
+                            .font(.caption)
+                            .foregroundStyle(.gray)
+                        
+                        Divider().background(Color.white.opacity(0.15))
+                        
+                        HStack {
+                            Text("Status:")
+                                .font(.caption)
+                                .foregroundStyle(.gray)
+                            Spacer()
+                            Text(calculatedFundingStatus)
+                                .font(.caption)
+                                .fontWeight(.bold)
+                                .foregroundStyle(.green)
+                        }
+                    }
+                    .padding()
+                    .background(Color.white.opacity(0.06))
+                    .cornerRadius(14)
+                    
+                    // Checklist Section
+                    VStack(alignment: .leading, spacing: 10) {
+                        Text("Required Application Documents")
+                            .font(.headline)
+                            .foregroundStyle(.white)
+                        
+                        VStack(alignment: .leading, spacing: 6) {
+                            Text("• Copy of SA ID card or birth certificate")
+                            Text("• Parent/Guardian ID copy and recent payslips / UIF letter")
+                            Text("• Completed NSFAS Consent Form (downloaded from portal)")
+                            Text("• Disability Annexure Form (if applying under disability cap)")
+                            Text("• Death certificates if parent(s) are deceased")
+                        }
+                        .font(.caption)
+                        .foregroundStyle(.gray)
+                    }
+                    .padding()
+                    .background(Color.white.opacity(0.06))
+                    .cornerRadius(14)
+                    
+                    // Rejection & Appeals Rules
+                    VStack(alignment: .leading, spacing: 10) {
+                        Text("Handling NSFAS Rejections & Appeals")
+                            .font(.headline)
+                            .foregroundStyle(.orange)
+                        
+                        Text("If rejected, you have exactly 30 days to log into myNSFAS and click 'Submit Appeal'. Common grounds for successful appeals include:")
+                            .font(.caption)
+                            .foregroundStyle(.gray)
+                        
+                        VStack(alignment: .leading, spacing: 6) {
+                            Text("• Death or job loss of primary household earner (Provide retrenchment letter / ITA34)")
+                            Text("• Income calculation error by SARS (Provide recent payslips)")
+                            Text("• Legal separation / divorce decree limiting parental support")
+                        }
+                        .font(.caption2)
+                        .foregroundStyle(.white.opacity(0.9))
+                    }
+                    .padding()
+                    .background(Color.orange.opacity(0.12))
+                    .cornerRadius(14)
+                    
+                    // Action Button
+                    if let url = URL(string: "https://my.nsfas.org.za") {
+                        Link(destination: url) {
+                            HStack {
+                                Text("Open myNSFAS Portal")
+                                    .fontWeight(.bold)
+                                Image(systemName: "arrow.up.right.square")
+                            }
+                            .font(.subheadline)
+                            .foregroundStyle(.white)
+                            .frame(maxWidth: .infinity)
+                            .padding(.vertical, 14)
+                            .background(Color.green)
+                            .cornerRadius(12)
+                        }
+                    }
+                }
+                .padding()
+            }
+            .background(Color.black.ignoresSafeArea())
+            .navigationTitle("NSFAS Financial Aid")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .confirmationAction) {
